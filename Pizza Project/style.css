@@ -1,0 +1,86 @@
+
+body 
+{
+    background-color: #932b1f;
+    margin: 0px;
+}
+
+
+#banner-img {
+    width: 100%;
+}
+
+#welcome-section
+{
+    background-image: url("Images project/background.jpg");
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+#category-section
+{
+    background-image: url("Images project/backimage2.jpeg");
+    background-size:80% 100%;
+    text-align: center;
+}
+
+#category-section h2
+{
+    padding-top:30px;
+    color: white;
+}
+
+#category-section h1
+{
+    color: #932b1f;
+}
+
+#pizzas img
+{
+    width: 20%;
+}
+
+
+#italian-pizza
+{
+    background-image: url("Images project/italianPizza.png");
+   
+}
+#mexican-pizza
+{
+    background-image: url("Images project/mexicanPizza.png");
+}
+
+
+
+#customize-pizza
+{
+  text-align:center;
+  margin-left: 60px;
+}
+
+#customize-pizza-buttons
+{
+    float:left;
+    text-align: justify;
+    font-size: 20px;
+    width: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,109 @@
+.category-section
+{
+background-image: url("Images project/backimage2.jpeg");
+padding-top: 30px;
+text-align: center;
+background-size: 60% 100%;
+
+}
+
+
+.category-section h3
+{
+    color:white;
+}
+.category-section h2
+{
+    color: #932b1f;
+}
+#pizzas img
+{
+ width:20%;
+}
+#italian-pizza
+  {
+    background-image:url("Images project/italianPizza.png") ;
+    background-size: 100% 100%;
+    height:350px;
+  }
+#mexican-pizza
+{
+    background-image: url("Images project/mexicanPizza.png");
+    background-size: 100% 100%;
+    height:350px;
+}
+#customize-pizza
+{
+  text-align: center;
+  margin:50px;
+}
+#base-topping
+{
+  float: right;
+  position: relative;
+  margin-right: 50px;
+  width:30%;
+}
+.pizza-base
+{
+  float: right;
+  width:auto;
+  max-width: 100%;
+  margin-right: -30px;
+}
+#pizza-base2
+{
+position: absolute;
+}
+.pizza-topping-class
+{
+  position: absolute;
+  float: right;
+  width:auto;
+  max-width: 90%;
+  margin-left: 30px;
+}
+#costumzing
+{
+  text-align: center;
+  color:white
+}
+#customize-pizza
+{
+  background-color: #932b1f; 
+  margin:0;
+}
+#base-topping
+{
+  float:right;
+  margin-left: 50px;
+  width:30%;
+  position:relative;
+}
+#customize-pizza-buttons
+{  
+/* float:left;  */
+text-align: justify;
+font-size: 20px;
+width: 50%;
+}
+.pizza-base
+{
+  float:right;
+  width: auto;
+  max-width:100% ;
+  margin-right: -30px;
+}
+#pizza-base2
+{
+  position: absolute;
+
+}
+.pizza-topping-class
+{
+  position: absolute;
+  float: right;
+  width:auto;
+  max-width: 100%;
+  margin-left: 30px;
+}
